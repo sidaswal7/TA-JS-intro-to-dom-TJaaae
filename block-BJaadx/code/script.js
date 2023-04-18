@@ -14,7 +14,7 @@
 // 5. Select the ul element using class selector and store in `topics`
 
 // 6. Select the first label element and store in `label`
-
+console.log("hi");
 // 7. Select the input of type `checkbox` with the `id` selector and store in `inputCheckbox`
 
 // 8. Select the input of type password using Attribute selectors. (eg: input[type="text"]) and store in `password`
