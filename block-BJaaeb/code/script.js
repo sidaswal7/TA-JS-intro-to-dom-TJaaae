@@ -26,6 +26,7 @@ createInputElm('Your age', 'number'); //<label>Your age: <input type="number"></
 // TEST
 createList(['ALABAMA', 'ALASKA', 'HAWAII', 'KENTUCKY']);
 createList(['Afghanistan', 'Antarctica', 'Congo', 'Estonia']);
+console.log("test");
 
 // 4. Create a function named `createTodoList` that accept and array of data like [{name: "Learn DOM", isDone: false}, {name: "Learn JS", isDone: true}] and returns
 // the html for single todo will look like given below
