@@ -62,7 +62,7 @@ Do the following after selecting box 16 and storing in variable named box16
 // Select box 3 and prepend a new paragraph element with content "Prepend inserts as first child" just before hr element.
 
 // Change the border of box 4 to '1px solid black'
-
+console.log("test");
 // Change the border radius of box 5 to 10px.
 
 // Change the text color of box 6 to black.
